@@ -22,7 +22,7 @@ Many of these videos give you a better understanding of the evolution of this ma
 - [MK4 Machine working for 15 minutes](https://youtu.be/fdYek-q-E0g), MK4 Machine running for a full 15 mintues uncut. 
 
 
-# Ardunio
+# Arduino
 You can find the arduino code for the project in the `/MK4_Automation` directory
 
 ## Libraries needed
