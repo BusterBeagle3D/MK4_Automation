@@ -55,7 +55,7 @@ Check in the `/3D_Prints` directory for parts.
  - [MK4 Mold template](https://drive.google.com/file/d/1ILh0e-uNvjLMUA351t_ClR8Q0iGrUpfI/view?usp=drive_link) This is a mold template used to create your own molds to fit onto the MK4 Vise. 
 
 ## MK4 Wiring Diagram
-<img src="images/MK4_WiringDiagram.jpg">
+<img src="images/MK4_PCB_WiringDiagram.jpg">
 
 ## MK4 Pneumatics Diagram
 <img src="images/MK4_PneumaticDiagram.jpg">
