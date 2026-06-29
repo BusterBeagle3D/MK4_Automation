@@ -55,7 +55,7 @@ Check in the `/3D_Prints` directory for parts.
  - [MK4 Mold template](https://drive.google.com/file/d/1ILh0e-uNvjLMUA351t_ClR8Q0iGrUpfI/view?usp=drive_link) This is a mold template used to create your own molds to fit onto the MK4 Vise. 
 
 ## MK4 PCB Wiring Diagram
-#### [Purchase PCB Board Here]([https://www.busterbeagle3d.com/product/aluminum-pneumatic-vise-kit/34?cs=true&cst=custom](https://www.busterbeagle3d.com/product/mk4-automation-pcb-board-code-pre-loaded-/OHNLW6GDHYBGW6CDGXE7OO24?cp=true&sa=true&sbp=false&q=f))
+#### [Purchase PCB Board Here](https://www.busterbeagle3d.com/product/mk4-automation-pcb-board-code-pre-loaded-/OHNLW6GDHYBGW6CDGXE7OO24?cp=true&sa=true&sbp=false&q=f)
 <img src="images/MK4_PCB_WiringDiagram.jpg">
 
 ## MK4 Pneumatics Diagram
